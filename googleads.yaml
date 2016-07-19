@@ -11,11 +11,12 @@ adwords:
 
 dfp:
   application_name: mddfp
-  client_id: 727090956981-hq5krceto53vvldi3hdjbcgeo8phk8qo.apps.googleusercontent.com
-  client_secret: cUJSEhOsftRx4Ay-M4Ay5HZy
-  refresh_token: 1/-jAt29ulZO77DkHNST5itnOLsJz7sbH5B7EuKaeZEcs
+  #application_name: Other client 1
+  client_id: 719904148878-sr17jlmnh60s9m2b42er715kls1avjo1.apps.googleusercontent.com
+  client_secret: gRHsJ2hgnD09oAmp97x5RJGK
+  refresh_token: 1/_SG5a32OUunPURlg6zJioLWRg5aUy0kENlIwX4l0LJA
 # The following values are optional:
-  network_code: 4585
+  #network_code: 8788   #OAO alpha DFP
 
 dfa:
   username: INSERT_DFA_USERNAME_HERE
@@ -32,3 +33,12 @@ dfa:
 # The following values are optional:
 #  disable_ssl_certificate_validation: False
 #  ca_certs: INSERT_PATH_HERE
+
+
+# OAuth 2.0 authorization successful!
+
+# Your access token is:
+#  ya29..0QKxbj8O5lVOLjtBP2_-spAHC24q6-vXsWSV1a57VbWrn5UVxPHTEKzgVguFdayOuA
+
+# Your refresh token is:
+#  1/_SG5a32OUunPURlg6zJioLWRg5aUy0kENlIwX4l0LJA
